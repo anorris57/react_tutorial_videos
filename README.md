@@ -1,3 +1,5 @@
+This a react app created from a udemy course called Modern React with Redux by Stephen Grider. Great teaching on building react app using create-react-app , forms, event handlers, making api calls, mapping list and manipulating actual Dom nodes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
